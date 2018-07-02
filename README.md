@@ -6,13 +6,10 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-	<title></title>
-</head>
-<body>
+	<body>
 
-  ![](https://dl.dropboxusercontent.com/u/2226591/GIT/avatar2.png)文字不置中
-  <img style="vertical-align:middle;" src="https://dl.dropboxusercontent.com/u/2226591/GIT/avatar2.png"/>文字置中
-  
-</body>
+		<iframe width="420" height="315" src="https://www.youtube.com/embed/GIP0j4oRMWc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+	</body>
 </html>
